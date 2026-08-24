@@ -137,5 +137,45 @@ console.log(aluno.ra);
 
 
 
+/* let v = [1, 2, 3, 4];
+let v2 = [...v];
+let v3 = [0, ...v];
+let v4 = [0, ...v, 5];
+let v5 = [2, ...v.slice(1,4), 9];
+
+console.log(v);
+console.log(v2);
+console.log(v3);
+console.log(v4);
+console.log(v5); */
+
+/* var filme = "O Senhor dos Anéis ";
+function play(){
+    console.log(filme + "está sendo reproduzido");
+
+}
+
+let cinema = {
+    filme: "Harry Potter ",
+    play: function(){
+        console.log(this.filme + "está sendo reproduzido");
+    }
+}
+
+let netflix = {
+    filme: "Star Wars ", 
+    play: function(){
+        console.log(this.filme + "está sendo reproduzido");
+    }
+}
+
+play();
+cinema.play();
+netflix.play(); */
+
+
+
+
+
 
 
